@@ -1,0 +1,15 @@
+.button {
+  color: white;
+  width: 100px;
+  background-color: transparent;
+  border: 2px solid #f3aa4e;
+  border-radius: 14px;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  margin-bottom: 10px;
+}
